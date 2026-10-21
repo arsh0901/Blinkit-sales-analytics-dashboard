@@ -16,13 +16,6 @@
 - [Data Preparation](#-data-preparation)
 - [Dataset](#-dataset)
 - [Business Value](#-business-value)
-- [Skills Demonstrated](#-skills-demonstrated)
-- [Repository Structure](#-repository-structure)
-- [Getting Started](#-getting-started)
-- [Future Enhancements](#-future-enhancements)
-- [About Me](#-about-me)
-- [Contact](#-contact)
-- [License](#-license)
 ---
 # 📖 Overview
 
@@ -175,5 +168,3 @@ This dashboard provides a centralized view of business performance, enabling sta
 - Support strategic, data-driven decision-making.
 
 ---
-
-This project is for academic and portfolio purposes. Feel free to fork and adapt with attribution.
